@@ -4,7 +4,7 @@
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
   "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
-  "homepage": "https://bdot868.github.io/Mini-youtube/",
+  "homepage": "http://bdot868.github.io/Mini-youtube/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
